@@ -2,7 +2,7 @@
   "name": "mybike",
   "version": "1.0.0",
   "description": "Landing Page",
-  "homepage": "https://maxschmide.github.io/myBike",
+  "homepage": "https://maxschmide.github.io/mybike",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d build"
