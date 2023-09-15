@@ -1,0 +1,15 @@
+{
+  "name": "mybike",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "homepage": "https://maxschmide.github.io/myBike",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "author": "MaxSchmide",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
